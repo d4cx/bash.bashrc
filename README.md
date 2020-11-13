@@ -3,7 +3,7 @@ Bash.bashrc custom file on kali linux 2020.3
 
 
 # Cara Pakai
-  1. ``sudo su`` ___masukan password kali linux kalian
+  1. ``sudo su`` masukan password kali linux kalian
   2. ```nano bash.bashrc```
   3. sebelum kalian mengganti alangkah baiknya kalian backup file bash.bashrc default kali linux kalian 
   4. kalo sudah di back up kalian hapus semua lalu ganti dengan code dari file bash.bashrc di atas
